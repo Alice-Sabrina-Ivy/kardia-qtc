@@ -276,4 +276,5 @@ PRs welcome, particularly for:
 
 ## License
 
-[Add a license of your choice — MIT, Apache 2.0, GPL, etc.]
+[MIT](LICENSE) — do whatever you want with this, just keep the copyright
+notice. No warranty, express or implied.
